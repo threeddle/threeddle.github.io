@@ -1,0 +1,17 @@
+{
+  "name": "three-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox page for three.js",
+  "main": "src/index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "three": "^0.115.0",
+    "webpack": "^4.31.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.7"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
