@@ -4,7 +4,7 @@
   "description": "Sandbox page for three.js",
   "main": "src/index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "three": "^0.115.0",
     "webpack": "^4.31.0"
   },
